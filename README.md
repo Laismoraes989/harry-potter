@@ -1,7 +1,8 @@
-# harry potte
+# Harry Potter
 
- primeiro repositorio visionario do git e github
+Primeiro repositorio visionario do git e github
 
-Repositorio criando por teste!
-Essa linha eu adicionei diretamente no site!QUE IMPRESSIONANT!
+Repositório criado por teste!
+Essa linha eu adicionei diretamente no meu repositório! top d+
 
+By "Lais Moraes"
